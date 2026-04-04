@@ -5,7 +5,7 @@ Search, browse trending content, and explore detailed information
 including trailers and cast.
 
 ## Live Demo
-[View Live App](https://your-vercel-link-here.vercel.app)
+[View Live App](https://movie-finder-five-xi.vercel.app/)
 
 ## Screenshots
 ![MovieFinder Screenshot](screenshot.png)
